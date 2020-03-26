@@ -17,7 +17,7 @@ body {
 	background: #0C1114 url(images/img01.jpg) no-repeat top center;
 	color: #8EA2AD;
 	line-height: 1.75em;
-	font-size: 12pt;
+	font-size: 10pt;
 }
 
 body,input {
@@ -37,7 +37,7 @@ h1,h2,h3,h4 {
 }
 
 h2 {
-	font-size: 1.5em;
+	font-size: 1.2em;
 }
 
 h2,h3,h4 {
